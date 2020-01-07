@@ -78,6 +78,12 @@
 + **[Beers in the Middle](https://github.com/omonk/beersinthemiddle-v2)**: That app helps groups of friends find the perfect place to meet for drinks or food by finding the average distance between each friend. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
 
 + **[Beer-Tracker](https://github.com/silverstone1903/Beer-Tracker/tree/master)**: Tracking app for craft beer enthusiasts who want to chronicle a journey through the vast world of beer. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
+
++ **[Cheapfathers-Bubble-logger](https://github.com/kbaggen/Cheapfathers-Bubble-Logger)**: A ferment Acivity-Logger/Temperature-Controller, measuring "Temperature and Sound detection of CO2 bubbles" for NodeMCU (ESP8266). Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="16">
+
++ **[BeerAdvice](https://github.com/martinstork/BeerAdvice)**: API for getting advice whether to drink beer or Jägertee. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" height="16">
+
++ **[Juleol](https://github.com/umglurf/juleol)**: Web app to aid with the rating of Christmas beer and other beers in Norway. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
 <br><br>
 
 <!--cider-->
@@ -217,6 +223,8 @@
 + **[Free Seeds, Not Free Beer](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=4440&context=flr)**: NOTE: this is a pdf. Participatory plant breeding, Open Source seeds and acknowledging user innovation in agriculture - Keith Aoki.
 
 + **[Open-source winemaking](https://www.jancisrobinson.com/articles/open-source-winemaking)**: How technology is being used to share every detail of how a wine is produced - for free - Jancis Robinson.
+
++ **[Proteostasis data analysis](https://github.com/bonattod/Proteostasis_data_analysis)**: Supplementary data for the manuscript "Does inter-organellar proteostasis impact yeast quality and performance during beer fermentation?" by Bianca de Paula Telini, Marcelo Menoncin and Diego Bonatto.
 
 
 <br>
