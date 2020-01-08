@@ -84,6 +84,10 @@
 + **[BeerAdvice](https://github.com/martinstork/BeerAdvice)**: API for getting advice whether to drink beer or Jägertee. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" height="16">
 
 + **[Juleol](https://github.com/umglurf/juleol)**: Web app to aid with the rating of Christmas beer and other beers in Norway. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+
++ **[Beer App](https://github.com/arichard-info/Beer-App)**: Beer consumption monitoring application with the purpose to provide consumption statistics to the user. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
+
++ **[What To Brew](https://github.com/maquintal/WhatToBrew)**: Web app for beer brewing recipe. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
 <br><br>
 
 <!--cider-->
