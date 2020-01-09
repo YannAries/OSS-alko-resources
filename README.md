@@ -88,6 +88,10 @@
 + **[Beer App](https://github.com/arichard-info/Beer-App)**: Beer consumption monitoring application with the purpose to provide consumption statistics to the user. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
 
 + **[What To Brew](https://github.com/maquintal/WhatToBrew)**: Web app for beer brewing recipe. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
+
++ **[Beer Reviews](https://github.com/hjsuh18/beer_reviews)**: Aspect based sentiment analysis to predict beer ratings based on review text. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+
++ **[Brew journal](https://github.com/wnuczek/brew-journal)**: Web app showing brewed beers details in polish language. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" height="16">
 <br><br>
 
 <!--cider-->
