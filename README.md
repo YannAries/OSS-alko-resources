@@ -92,6 +92,10 @@
 + **[Beer Reviews](https://github.com/hjsuh18/beer_reviews)**: Aspect based sentiment analysis to predict beer ratings based on review text. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
 
 + **[Brew journal](https://github.com/wnuczek/brew-journal)**: Web app showing brewed beers details in polish language. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" height="16">
+
++ **[Beer Time](https://github.com/Geomint/beer-time)**: Website for the craft beer lovers. Made in UK. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+
++ **[Crafted in Sweden](https://github.com/vogelsara/crafted-in-sweden)**: Meeting place for craft beer lovers and breweries. Part of a student project. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
 <br><br>
 
 <!--cider-->
