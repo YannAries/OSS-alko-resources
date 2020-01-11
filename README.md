@@ -96,6 +96,10 @@
 + **[Beer Time](https://github.com/Geomint/beer-time)**: Website for the craft beer lovers. Made in UK. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
 
 + **[Crafted in Sweden](https://github.com/vogelsara/crafted-in-sweden)**: Meeting place for craft beer lovers and breweries. Part of a student project. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
+
++ **[Beer Tracker](https://github.com/carrieschmid/BeerTracker)**: Another beer tracker. Part of a student project. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg" height="16">
+
++ **[Github Pub](https://github.com/jefersonbrzcosta/Github-PUB)**: Where all the GitHub users meetup for a beer. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg" height="16">
 <br><br>
 
 <!--cider-->
