@@ -100,6 +100,10 @@
 + **[Beer Tracker](https://github.com/carrieschmid/BeerTracker)**: Another beer tracker. Part of a student project. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg" height="16">
 
 + **[Github Pub](https://github.com/jefersonbrzcosta/Github-PUB)**: Where all the GitHub users meetup for a beer. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg" height="16">
+
++ **[Beer Pong](https://github.com/chad-bot/Beer-Pong)**: Controlled Highly Accurate Deadeye is a robot that plays beer pong.
+
++ **[Craft & Draft](https://github.com/craftanddraft/craftanddraft.github.io)**: Personal website about craft beer. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" height="16">
 <br><br>
 
 <!--cider-->
