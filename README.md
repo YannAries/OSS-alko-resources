@@ -104,6 +104,8 @@
 + **[Beer Pong](https://github.com/chad-bot/Beer-Pong)**: Controlled Highly Accurate Deadeye is a robot that plays beer pong.
 
 + **[Craft & Draft](https://github.com/craftanddraft/craftanddraft.github.io)**: Personal website about craft beer. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" height="16">
+
++ **[BeerWarehouse](https://github.com/webbaard/BeerWarehouse)**: Application that track all you exotic beers. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="16">
 <br><br>
 
 <!--cider-->
