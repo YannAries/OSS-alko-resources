@@ -13,8 +13,11 @@
 </div>
 
 ---
+<section>
 
 ## Beer ![beer](img/1f37a.png) 
+<details>
+<summary><em>Toggle the list</em></summary>
 
 + **[The Pyrmont (Secret Squirrel) Brewery](https://github.com/beerbrewing/beerbrewing.github.io)**: Beers are brewed exclusively for local businesses to keep distribution cost minimal and stay within a resonable capacity. Based in Sydney, Australia. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
  
@@ -47,7 +50,6 @@
 + **[Strangebrew Elsinore Server](https://github.com/DougEdey/SB_Elsinore_Server)**: Brewery controller that runs on Raspberry Pi. Accessible for brewers across all platforms. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@2.0/logos/raspberry-pi.svg" height="16">
 
 + **[BrewPiLess](https://github.com/vitotai/BrewPiLess)**: Most advanced fermentation temperature controller. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="16">
-
 
 + **[BrewManiacEx](https://github.com/vitotai/BrewManiacEsp8266)**: Yet another brew controller based on ESP8266 with key features of next-generation controller. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
 
@@ -106,19 +108,31 @@
 + **[Craft & Draft](https://github.com/craftanddraft/craftanddraft.github.io)**: Personal website about craft beer. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" height="16">
 
 + **[BeerWarehouse](https://github.com/webbaard/BeerWarehouse)**: Application that track all you exotic beers. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="16">
+</details>
+</section>
 <br><br>
 
 <!--cider-->
+<section>
                                                     
 ## Cider/Champagne ![cc](img/1f37e.png)
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[Cidercade On-Tap Alerter](https://github.com/BenDMyers/Cidercade_OnTap_Alerter)**: Smart crawler that notify users of updates on selection of cider on-tap. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16">
 
 + **[Champagne De Blémond](https://github.com/champagnedeblemondv2/champagnedeblemondv2.github.io)**: Website for De Blémond Champagne House located in Cuis in northeastern France. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" height="16">
+</details>
+</section>
 <br><br>
 
 <!--cocktail-->
+<section>
 
 ## Cocktail ![cocktail](img/1f379.png)
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[TheCockTailDB](https://github.com/MrHenryA/NPM-CocktailDB-API-Search)**: Database of drinks and cocktails worldwide that provides an easy API integration. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16">
 
 + **[Drinks](https://github.com/wKovacs64/drinks)**: Run your own static site to showcase your favorite cocktails. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16">
@@ -130,19 +144,31 @@
 + **[IBA Cocktails](https://github.com/teijo/iba-cocktails)**: International Bartenders Association (IBA) Official Cocktails. Project built with <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@2.0/logos/json.svg" height="16">
 
 + **[Cocktailr](https://github.com/BramDC3/Cocktailr)**: App made by and for cocktail lovers to help them discover new cocktails and find cocktails based on the ingredients they have. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="16">
+</details>
+</section>
 <br><br>
 
 <!--liqueur-->
+<section>
 
 ## Liqueur ![liqueur](img/1f378.png)
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[Drinkery](https://github.com/fumieval/drinkery)**: Stream processing library focusing on liqueurs. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/haskell/haskell_16x16.png">
 
 + **[Oregon Liquor Prices](https://github.com/twaddington/django-olcc/)**: Web interface and API to get updated product prices from Oregon Liquor Control Commission database. Unofficial list. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+</details>
+</section>
 <br><br>
 
 <!--spirit-->
+<section>
 
 ## Spirit <img src="img/1F943.svg" height="36">
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[Whiskey Recommender](https://github.com/samuel-stack/Whiskey-Recommender)**: Recommender system for scotches based on professional tasting notes and price. Project built with <img src="img/squarelogo-greytext-orangebody-greymoons.png" height="16">
 
 + **[Whiskey Tracker](https://github.com/alosdiallo/Whiskey-Tracker)**: App that allow users to track their whiskey purchases. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/javascript/javascript-original.svg" height="16">
@@ -156,11 +182,17 @@
 + **[rum_analysis](https://github.com/PeerChristensen/rum_analysis)**: Analysis about the amount of sugar content in rum and how much sweeter is it compare to other spirits. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="16">
 
 + **[WhiskyClub](https://github.com/martinmitrevski/WhiskyClub)**: App for recognising different brands of whisky. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/swift/swift.png" height="16">
+</details>
+</section>
 <br><br>
 
 <!--wine-->
+<section>
 
 ## Wine ![wine](img/1f377.png)
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[Winery](https://github.com/fumieval/winery)**: Serialisation library launched in 2018 focusing on performance, compactness and compatibility. Metadata are packed into one schema. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/haskell/haskell_16x16.png">
 
 + **[MTB19 Solidity](https://github.com/OpenVino/mtb19-solidity)**: The Openvino project (Costaflores Organic Vineyard) released MTB19 token in 2018. Proclaimed to be world's first organic wine-backed crypto asset - based in Mendoza, Argentina. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/javascript/javascript-original.svg" height="16">
@@ -190,11 +222,17 @@
 + **[Red Wine Analysis with R](https://github.com/jtsou/Red-Wine-Analysis-with-R)**: Data analysis of red wines. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="16">
 
 + **[Wine Price](https://github.com/kennethbollen/wine_price)**: Project used wine data from the U.K retailer Majestic Wine to analyse wine consumption trends and drivers. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+</details>
+</section>
 <br><br>
 
 <!--general-->
+<section>
 
 ## General <img src="img/1F379.svg" height="36">
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[InDEx App](https://github.com/DrDanL/index-app-public)**: Cross-platform software for reporting and monitoring alcohol consumption via a smartphone. Project build with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/ionic/ionic-original.svg" height="16">
 
 + **[Chelmsford Beer & Cider Festival](https://github.com/tmaguire/cbcf.info)**: Website for Chelmsford Beer & Cider Festivals - summer and winter edition. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16">
@@ -216,21 +254,34 @@
 + **[DIY Makeshift Breathalyser](https://github.com/Jaycar-Electronics/DIY-Makeshift-Breathalyser)**: Use the XC4540 Alcohol sensor and build your own breathalyser. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="16">
 
 + **[Wine-Beer Classification](https://github.com/tarunmaini16/beer-wine-classifier)**: Program that helps you differentiate between a bottle of wine and beer based on alcoholic content and color of liquid. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
+
++ **[bolaget.io](https://github.com/larsha/bolaget.io)**: App that consumes a large XML API from Systembolaget (Swedish alcohol monopoly) and transforms it into a REST JSON API. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16">
+</details>
+</section>
 <br><br>
 
 <!--repo-->
+<section>
 
 ## List of repositories <img src="img/E045.svg" height="36">
+<details>
+<summary><em>Toggle the list</em></summary>
+
 + **[beer.db](https://github.com/openbeer)**: Free and open public domain beer, brewery and brewpubs data. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.png" height="16">
 
 + **[Awesome Open Beer](https://github.com/theoretick/awesome-open-beer)**: A curated list of breweries that open source their beer recipes.
 
 + **[Open Drinks](https://github.com/alfg/opendrinks)**: A list of Open Source drinks. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/vuejs/vuejs-original.svg" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/javascript/javascript-original.svg" height="16" height="16">
+</details>
+</section>
 <br><br>
 
 <!--book-->
+<section>
 
 ## Books, articles, essay and research <img src="img/1F5CE.png" height="24">
+<details>
+<summary><em>Toggle the list</em></summary>
 
 + **[AlcoSensing App](https://github.com/joedarby/AlcoSensing)**: This Android app was developed as part of a MSc Computer Science research project titled *"Can alcohol consumption and its acute effects be detected from smartphone sensor data"*. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" height="16">
 
@@ -247,6 +298,8 @@
 + **[Open-source winemaking](https://www.jancisrobinson.com/articles/open-source-winemaking)**: How technology is being used to share every detail of how a wine is produced - for free - Jancis Robinson.
 
 + **[Proteostasis data analysis](https://github.com/bonattod/Proteostasis_data_analysis)**: Supplementary data for the manuscript "Does inter-organellar proteostasis impact yeast quality and performance during beer fermentation?" by Bianca de Paula Telini, Marcelo Menoncin and Diego Bonatto.
+</details>
+</section>
 
 
 <br>
