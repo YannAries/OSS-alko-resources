@@ -144,6 +144,8 @@
 + **[IBA Cocktails](https://github.com/teijo/iba-cocktails)**: International Bartenders Association (IBA) Official Cocktails. Project built with <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@2.0/logos/json.svg" height="16">
 
 + **[Cocktailr](https://github.com/BramDC3/Cocktailr)**: App made by and for cocktail lovers to help them discover new cocktails and find cocktails based on the ingredients they have. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="16">
+
++ **[Data-Driven Cocktails](https://github.com/adriankpierce/cocktails)**: App to explore craft cocktails through data science to demystify and make sense of this opaque landscape. Project built with <img src="img/squarelogo-greytext-orangebody-greymoons.png" height="16">
 </details>
 </section>
 <br><br>
