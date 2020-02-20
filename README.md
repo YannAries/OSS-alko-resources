@@ -108,6 +108,8 @@
 + **[Craft & Draft](https://github.com/craftanddraft/craftanddraft.github.io)**: Personal website about craft beer. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" height="16">
 
 + **[BeerWarehouse](https://github.com/webbaard/BeerWarehouse)**: Application that track all you exotic beers. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="16">
+
++ **[labo_biere](hhttps://github.com/TrickyTroll/labo_biere)**: Calculations leading to the determination of the alcohol content in beer. Project built with <img src="img/squarelogo-greytext-orangebody-greymoons.png" height="16">
 </details>
 </section>
 <br><br>
@@ -260,6 +262,10 @@
 + **[Wine-Beer Classification](https://github.com/tarunmaini16/beer-wine-classifier)**: Program that helps you differentiate between a bottle of wine and beer based on alcoholic content and color of liquid. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="16">
 
 + **[bolaget.io](https://github.com/larsha/bolaget.io)**: App that consumes a large XML API from Systembolaget (Swedish alcohol monopoly) and transforms it into a REST JSON API. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg" height="16">
+
++ **[PgBrewer](https://github.com/dlebansais/PgBrewer)**: Helps managing beers and other liquors one can make in the Project: Gorgon MMORPG. Project built with <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" height="16">
+
++ **[NYS Liquor Authority](https://github.com/ashutoshSce/nys-liquor-authority)**: Web application that scrapes records from New York State Liquor Authority official website and presents it in datatable format. Project built with <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/vuejs/vuejs-original.svg" height="16"> <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/javascript/javascript-original.svg" height="16" height="16">
 </details>
 </section>
 <br><br>
